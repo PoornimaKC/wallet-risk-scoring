@@ -23,7 +23,7 @@ Given 100+ wallet addresses, the objective is to:
 | `wallet_score.ipynb` | Jupyter notebook with code for data collection, feature engineering, and scoring |
 | `wallet_risk_score.csv` | Output file containing wallet IDs and their respective risk scores |
 | `analysis.md` | Documentation explaining data source, feature selection, and scoring methodology |
-| `README.md` | This file 😊 |
+| `README.md` | This file |
 
 ---
 
